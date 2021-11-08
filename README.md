@@ -11,9 +11,9 @@ Phaser3.jsを使ってHTML5のゲームを作るときに参考にしてもら�
  
 以下のアドレスでプレイすることができます。
 
-[Hungry Bird!?](https://tinycore-hisanori.github.io/phaser3_diffPoint/)
+[Hungry Bird!?](https://tinycore-hisanori.github.io/phaser3_hungrybird/)
 
- ![QR04](https://user-images.githubusercontent.com/30931098/139732882-06f11655-8fb6-4edb-96fc-1855e7636c56.png)
+ ![QR04](https://user-images.githubusercontent.com/30931098/140819195-7a5fbbff-d0cb-4a22-aef8-e9a8b70f0a21.png)
 
 # Features
  
